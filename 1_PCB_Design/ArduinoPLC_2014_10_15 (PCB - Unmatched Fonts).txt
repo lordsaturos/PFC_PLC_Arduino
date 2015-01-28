@@ -1,0 +1,26 @@
+Unmatched Fonts
+---------------
+
+Report File    : E:\GoogleDrive\Proyecto Final Carrera\Diagramas y PCB\ArduinoPLC_2014_10_15 (PCB - Unmatched Fonts).txt
+Report Written : Sunday, November 23, 2014
+Design Path    : E:\GoogleDrive\Proyecto Final Carrera\Diagramas y PCB\ArduinoPLC_2014_10_15.pcb
+Design Title   : 
+Created        : 15/10/2014 16:54:24
+Last Saved     : 30/10/2014 23:53:30
+Editing Time   : 15417 min
+Units          : mm (precision 2)
+
+
+The design has unmatched fonts on this system for the following:
+================================================================
+
+
+Unmatched fonts on named styles:
+================================
+
+    Font '@Arial Unicode MS' used by text style 'Style1'
+    Font '@Arial Unicode MS' used by text style 'Style2'
+    Font '@Arial Unicode MS' used by text style 'Style3'
+    Font '@Arial Unicode MS' used by text style 'Style1_1'
+
+End Of Report.
